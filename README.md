@@ -7,6 +7,7 @@
 <h5 align="left">
 -ping:
 
+
 ![](https://github.com/isibol98/Discord_Bot-Python/blob/main/ping.png?raw=true)
 
 -roll
@@ -16,6 +17,9 @@
 -guess
 
 ![](https://github.com/isibol98/Discord_Bot-Python/blob/main/guess.png?raw=true)
+
+*You need to create virtual environment. On windows "python -m venv .venv"
+*If you want to keep your discord bot online 7/24, you can get an ec2 server from amazon. 
 </h5>
 
 <h3 align="left">Languages and Tools:</h3>
