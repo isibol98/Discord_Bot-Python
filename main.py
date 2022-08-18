@@ -14,7 +14,7 @@ Bot = commands.Bot("-", description="Discord Bot isibol98", help_command=help_co
 
 @Bot.event
 async def on_ready():
-    await Bot.change_presence(activity=discord.Activity(type=discord.ActivityType.playing, name="Calradia Online | -help", url="https://calradiaonline.com"))
+    await Bot.change_presence(activity=discord.Activity(type=discord.ActivityType.playing, name="github.com/isibol98 | -help"))
     print("I'm ready!")
 
 @Bot.command() #test your bot
