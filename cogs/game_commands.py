@@ -1,8 +1,8 @@
+#!/usr/bin/env python3
 import discord
 from discord.ext import commands
 from random import randint as rd
 import asyncio
-
 
 class Game_Commands(commands.Cog, name="Game Commands", description="Game commands"):
     def __init__(self,bot):
